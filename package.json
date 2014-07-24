@@ -1,0 +1,33 @@
+{
+    "name": "edijson.js",
+    "version": "1.0.0",
+    "description": "Client interface for data retrieving from server side applications.",
+    "author": {
+        "name": "Stefano Graziato"
+    },
+    "license": "BSD",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/eurekaa/edijson.js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/eurekaa/edijson.js/issues"
+    },
+    "keywords": [
+        "javascript",
+        "coffeescript",
+        "rest service",
+        "web service",
+        "json",
+        "ajax",
+        "database",
+        "api"
+    ],
+    "scripts": {
+        "compile": "continuum src bin -c tmp/cache -e"
+    },
+    "readmeFilename": "README.md",
+    "_id": "edijson.js@eurekaa.it",
+    "_from": "edijson.js@"
+}
